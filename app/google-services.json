@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910991585279",
+    "project_id": "communitychatapp-fb146",
+    "storage_bucket": "communitychatapp-fb146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910991585279:android:ac299895b8e3cd383e81ca",
+        "android_client_info": {
+          "package_name": "com.example.communitychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910991585279-b2tobq33hbaon8h1krga3pif11f44c53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3vCoUVzCoQruB8rVqoJ2QewTthSaFEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910991585279-b2tobq33hbaon8h1krga3pif11f44c53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
